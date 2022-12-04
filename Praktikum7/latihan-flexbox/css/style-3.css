@@ -1,0 +1,33 @@
+.kotak {
+    border: 1px solid black;
+    width: 150px;
+    height: 700px;
+}
+
+.item-1 {
+    background-color: beige;
+}
+
+.item-2 {
+    background-color: rgb(10, 216, 37);
+}
+
+.item-3 {
+    background-color: rgb(65, 37, 133);
+}
+
+
+.item-4 {
+    background-color: rgb(121, 25, 105);
+}
+
+.item-5 {
+    background-color: rgb(226, 15, 15);
+}
+
+
+.container {
+   display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
